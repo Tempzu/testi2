@@ -18,9 +18,12 @@ body, html {
 
 .header nav {
     font-size: 40px;
-    color: #ffff00;
-    padding-right: 0px;
-    list-style: none;
+    color: #FFFF00;
+    display: inline-block;
+}
+
+.header nav:hover {
+    color: #008000;
 }
 
 .header ul {
