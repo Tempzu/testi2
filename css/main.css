@@ -16,6 +16,12 @@ body, html {
     text-align: center;
 }
 
+.header nav {
+    font-size: 16px;
+    color: #ffff00;
+    
+}
+
 .header ul {
   list-style: none;
 }
