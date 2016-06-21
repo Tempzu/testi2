@@ -145,7 +145,6 @@ a.back:hover {
   font-weight: 300;
   font-size: 18px;
   letter-spacing: 1.3px;
-  
   text-decoration: none;
   height: 30px;
   width: 200px;
@@ -155,6 +154,7 @@ a.back:hover {
   left 20%;
   box-sizing: border-box;
 }
+
 .btn:hover {
 	background: #000000;
 	cursor: pointer; 
