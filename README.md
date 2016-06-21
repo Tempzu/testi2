@@ -1,2 +1,5 @@
 # testi2
-Code in gh-pages branch
+
+Practising using gh-pages with code from codecademy js.angular practise that I have slightly modified.
+
+Code in gh-pages branch.
