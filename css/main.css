@@ -19,7 +19,8 @@ body, html {
 .header nav {
     font-size: 16px;
     color: #ffff00;
-    
+    padding-right: 0px;
+    list-style: none;
 }
 
 .header ul {
