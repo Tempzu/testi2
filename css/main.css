@@ -152,7 +152,7 @@ a.back:hover {
   margin: auto;
   text-align: center;
   left 20%;
-  display:table-cell;
+  box-sizing: border-box;
 }
 .btn:hover {
 	background: #000000;
@@ -160,3 +160,6 @@ a.back:hover {
 	transition: background .5s;  
 }
 
+.btn:visited {
+color: #999999;
+}
