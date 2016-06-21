@@ -152,6 +152,7 @@ a.back:hover {
   margin: auto;
   text-align: center;
   left 20%;
+  display:table-cell;
 }
 .btn:hover {
 	background: #000000;
