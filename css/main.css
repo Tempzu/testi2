@@ -152,10 +152,11 @@ a.back:hover {
   margin: auto;
   text-align: center;
   position: absolute;
-  top: 50%;
+  left 10%;
 }
 .btn:hover {
-	background: #117bff;
+	background: #ffff00;
+	color: #000000;
 	cursor: pointer; 
 	transition: background .5s;  
 }
