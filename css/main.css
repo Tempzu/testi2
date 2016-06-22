@@ -160,3 +160,7 @@ a.back:hover {
 	cursor: pointer; 
 	transition: background .5s;  
 }
+
+.btn:visited {
+	background: #0000ff;
+}
