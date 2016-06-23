@@ -114,10 +114,12 @@ a.back:hover {
 }
 
 .email-view .message {
+	display: inline-block;
 	float:left;
 }
 
 .email-view .image {
+	display: inline-block;
 	float: right;
 }
 
