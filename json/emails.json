@@ -60,7 +60,8 @@
     "datetime": 1420124500000,
     "subject": "Are you",
     "message": "Running out of ideas?",
-    "unread": false
+    "unread": false,
+    "image": "img/logo.svg"
   },
   
   {
