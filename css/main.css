@@ -78,7 +78,6 @@ a.back:hover {
 
 .subject {
     width: 60%;
-    float: left;
 }
 
 .date {
@@ -112,6 +111,10 @@ a.back:hover {
     padding: 0;
     text-align: right;
     width: 50%;
+}
+
+.email-view .message {
+	float:left;
 }
 
 .email-view .image {
