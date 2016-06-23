@@ -116,7 +116,7 @@ a.back:hover {
 .email-view .image {
 	display: inline-block;
 	float: right;
-	left: 70%;
+	background-position: right center;
 }
 
 .email-view p {
