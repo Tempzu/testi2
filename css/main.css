@@ -161,7 +161,7 @@ a.back:hover {
 }
 
 .btn:hover {
-	background: ##551a8b;
+	background: #551a8b;
 	cursor: pointer; 
 	transition: background .5s;  
 }
