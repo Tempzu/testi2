@@ -108,9 +108,14 @@ a.back:hover {
 
 .email-view .date {
     display: inline-block;
+    float: left;
     padding: 0;
     text-align: right;
     width: 50%;
+}
+
+.email-view .image {
+	float: right;
 }
 
 .email-view p {
