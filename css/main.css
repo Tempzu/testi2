@@ -113,11 +113,6 @@ a.back:hover {
     width: 50%;
 }
 
-.email-view .message {
-	display: inline-block;
-	float:left;
-}
-
 .email-view .image {
 	display: inline-block;
 	float: right;
